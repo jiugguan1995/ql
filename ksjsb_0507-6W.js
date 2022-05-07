@@ -228,7 +228,7 @@ let _0x134a17 = new Date(),
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
     _0x180c0c = "https://www.mumu6666.top/ks.json",
-    ksjsbjk = "http://0546cq.com:2031/ksjsb-ziye.json",
+    ksjsbjk = "https://www.mumu6666.top/6w.json",
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
@@ -3966,7 +3966,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://www.mumu6666.top/kss.json";
+          u = "https://www.mumu6666.top/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));
