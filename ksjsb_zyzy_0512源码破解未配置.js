@@ -20,8 +20,8 @@
  */
 
 // 根据自己信息填好
-const ksjsb_guanggao = "http://lgy1314.top/lgy.json";     // 广告 json 地址，标准写法：http://xxx.yyy/zzz.json，如果不会自己抓广告的话，可以从其他脚本复制【必须设置】
-const ksjsb_cookie = "kuaishou.api_st=Cg9rdWFpc2hvdS5hcGkuc3QSsAGOXgOiE3jH0_leluKb7A9egFnJiZsHGB5MDttfFn-oXXpUb1HRX10vMlgmcXokGmkr9nWsnnkknYnUShEunnh817N9uFzixL27vuuFyeLOjPDX8-KUSePikdPdyBFnSL70Nyvxyamh-58qt0heQBrInmSeKpOEEwdUUrLBRTDlWmVfY9zyNcCgo-Wk6GfJp6e-aUCvxhMn6p_J_igjhuiwROyWeI9FTBVEzc87pP5lhBoS2XvDR99SRDOqaScwEugPIgVVIiDfQG1z6FItyhN7nWn9tIHB_xxtJ4KWeB4vISGfcO1tjCgFMAE; language=zh-Hans-CN%3Bq%3D1;";       // CK 填在这里，标准写法：kuaishou.api_st=xxx;@kuaishou.api_st=yyy; <--- 看到示例中每个CK最后的英文分号(;)了么，不要省略【必须设置】
+const ksjsb_guanggao = "";     // 广告 json 地址，标准写法：http://xxx.yyy/zzz.json，如果不会自己抓广告的话，可以从其他脚本复制【必须设置】
+const ksjsb_cookie = "";       // CK 填在这里，标准写法：kuaishou.api_st=xxx;@kuaishou.api_st=yyy; <--- 看到示例中每个CK最后的英文分号(;)了么，不要省略【必须设置】
 const ksjsb_money = "15";        // 提现金额，整数字符串，留空表示按照快手返回的金额列表提现。比如'3'，表示每次提现 3 块。【建议留空】
 const ksjsb_hour = 8;          // 提现时间，整数，精确到小时。比如 8 就是早上 8 点提现，如果在 8：00-8：59 这一个小时内，脚本没跑，那就是不自动提现【建议改掉】
 const ksjsb_allMoneyOut = 0;   // 是否尝试全部提现，0 不全部提现 1 全部提现。【建议0，配置称1小心黑号】
